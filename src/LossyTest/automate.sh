@@ -1,5 +1,7 @@
 #!/bin/sh
-#
+# Replace with 
+# $rng seed RRPP
+# $loss_module set rate_ REPLACEHERE
 #
 # Script to automate the ECE4607 project
 #
