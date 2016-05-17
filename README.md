@@ -33,7 +33,11 @@ You can ignore the first step where requires to update all your packages or some
 ECE 4607 Project
 
 ## Credits
-*Enmao Diao*
+*Enmao Diao  
+James Eccles  
+Daniel Graves  
+Wes Smith*
+
 ## License
 
 The MIT License (MIT)
